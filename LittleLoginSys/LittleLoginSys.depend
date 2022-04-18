@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1624821875 source:f:\coding projects\cppstartproject\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
+1624821875 source:f:\coding projects\littleloginsys\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
