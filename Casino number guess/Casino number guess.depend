@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1624925207 source:f:\coding projects\casino number guess\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+
+1624921607 source:f:\coding\c++\casino number guess\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+
